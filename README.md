@@ -1,7 +1,6 @@
-### Hi there 👋
-
 <!--
 **unixorn/unixorn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there 👋
 
 Here are some ideas to get you started:
 
@@ -14,3 +13,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 😄 Pronouns: he/him
+- 🔭 I’m currently working on IOT (More specifically, Home Assistant) stuff.
+- 🌱 I’m currently learning k3s on the ARM cluster in my basement.
+
+I'm an SRE type that lives in Denver.
