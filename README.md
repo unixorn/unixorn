@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 😄 Pronouns: he/him
-- 🔭 I’m currently working on IOT (More specifically, Home Assistant) stuff.
-- 🌱 I’m currently learning k3s on the ARM cluster in my basement.
+- 🔭 I’m currently working on some IOT (More specifically, Home Assistant) stuff.
 
 I'm an SRE type that lives in Denver.
