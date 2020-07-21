@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 😄 Pronouns: he/him
-- 🔭 I’m currently working on some IOT (More specifically, Home Assistant) stuff.
+- 🔭 I’m currently working on some IOT (More specifically, Home Assistant) stuff, and playing around with some ARM boards. If you like the lists I'm maintaining or the other projects I blog about, you can [sponsor me](https://github.com/sponsors/unixorn).
 
 I'm an SRE type that lives in Denver.
