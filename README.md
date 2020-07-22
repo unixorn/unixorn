@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 I'm an SRE type that lives in Denver. I like tinkering with low-cost computers like Raspberry Pis and various other ARM boards like the Odroid family.
 
 - 😄 Pronouns: he/him
-- 🔭 I’m currently working on some IOT (More specifically, Home Assistant) stuff, and playing around with some ARM boards. If you like the lists I'm maintaining or the other projects I blog about, you can [sponsor me](https://github.com/sponsors/unixorn).
 - 💬 My blog is at [unixorn.github.io](https://unixorn.github.io).
+- 🔭 I’m currently working on some IOT (More specifically, Home Assistant) stuff, and playing around with some ARM boards. If you like the lists I'm maintaining or the other projects I blog about, you can [sponsor me](https://github.com/sponsors/unixorn).
