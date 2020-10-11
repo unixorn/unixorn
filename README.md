@@ -18,4 +18,4 @@ I'm an SRE type that lives in Denver. I like tinkering with low-power, low-cost 
 
 - 😄 Pronouns: he/him
 - 💬 My blog is at [unixorn.github.io](https://unixorn.github.io).
-- 🔭 I’m currently working on some IOT (More specifically, Home Assistant) stuff, and playing around with some ARM boards. If you like the lists I'm maintaining or the other projects I blog about, you can [sponsor me](https://github.com/sponsors/unixorn).
+- 🔭 When I'm not maintaining my various lists and projects I’m currently working on some IOT (More specifically, Home Assistant) stuff, and playing around with some ARM boards. If you like the lists I'm maintaining or the other projects I blog about, you can [sponsor me](https://github.com/sponsors/unixorn).
