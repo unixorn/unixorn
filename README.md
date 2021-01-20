@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm an SRE type that lives in Denver. I like tinkering with low-power, low-cost computers like Raspberry Pis and various other ARM boards.
+I'm an SRE at @Twilio and live in Denver. In my free time I like cooking, hiking and tinkering with low-power, low-cost computers like Raspberry Pis and various other ARM boards.
 
 - 😄 Pronouns: he/him
 - 💬 My blog is at [unixorn.github.io](https://unixorn.github.io/post/).
