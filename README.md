@@ -14,8 +14,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm an SRE at @Twilio and live in Denver. In my free time I like cooking, hiking and tinkering with low-power, low-cost computers like Raspberry Pis and various other ARM boards.
+I'm an SRE at @Twilio and live in Denver.
 
 - 😄 Pronouns: he/him
 - 💬 My blog is at [unixorn.github.io](https://unixorn.github.io/post/).
-- 🔭 When I'm not maintaining my various lists and projects I’m currently working on some IOT (More specifically, Home Assistant) stuff, and playing around with some ARM boards. If you like the lists I'm maintaining or the other projects I blog about, you can [sponsor me](https://github.com/sponsors/unixorn).
+- 🔭 When I'm not maintaining my various lists and projects, I’m usually tinkering on some IOT (More specifically, Home Assistant) projects or playing around with some ARM boards.
+- ⚡ I like to cook
+- ⚡ I enjoy hiking and have summited a couple fourteeners (Quandary and Mt. Bierstadt).
+
+If you like the lists I'm maintaining or the other projects I blog about, you can [sponsor me](https://github.com/sponsors/unixorn).
