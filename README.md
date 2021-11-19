@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm an SRE at @Twilio and live in Denver.
+I'm an SRE and live in Denver.
 
 - 😄 Pronouns: he/him
 - 💬 My blog is at [unixorn.github.io](https://unixorn.github.io/post/).
