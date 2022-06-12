@@ -23,3 +23,5 @@ I'm an SRE and live in Denver.
 - ⚡ I enjoy hiking and have summited a couple fourteeners (Quandary and Mt. Bierstadt).
 
 If you like the lists I'm maintaining or the other projects I blog about, you can [sponsor me](https://github.com/sponsors/unixorn), or buy geeky swag from my [redbubble shop](https://www.redbubble.com/people/unixorn/shop).
+
+![GH Streak](https://github-readme-streak-stats.herokuapp.com/?user=unixorn)
