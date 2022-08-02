@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm an SRE and live in Denver.
+I'm an SRE and live in Denver. Don't contact me about cryptocoin "opportunities" - kleptocoin is an ecological disaster and ponzi scam and I want nothing to do with it.
 
 - 😄 Pronouns: he/him
 - 💬 My blog is at [unixorn.github.io](https://unixorn.github.io/post/).
