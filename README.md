@@ -18,7 +18,7 @@ I'm an SRE and live in Denver. Don't contact me about cryptocoin "opportunities"
 
 - 😄 Pronouns: he/him
 - 💬 My blog is at [unixorn.github.io](https://unixorn.github.io/post/).
-- 🔭 When I'm not maintaining my various lists and projects, I’m usually tinkering on some IOT (More specifically, Home Assistant) projects or playing around with some ARM boards.
+- 🔭 When I'm not maintaining my various lists and projects, I’m usually tinkering on some IOT (More specifically, [Home Assistant](https://unixorn.github.io/tags/home-assistant/) projects or playing around with some ARM boards.
 - ⚡ I like to cook
 - ⚡ I enjoy hiking and have summited a couple fourteeners (Quandary and Mt. Bierstadt).
 
