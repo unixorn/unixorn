@@ -27,3 +27,4 @@ If you like the lists I'm maintaining or the other projects I blog about, you ca
 <!--
 ![GH Streak](https://github-readme-streak-stats.herokuapp.com/?user=unixorn)
 -->
+[![GitHub Streak](https://streak-stats.demolab.com?user=unixorn&theme=dark)](https://git.io/streak-stats)
