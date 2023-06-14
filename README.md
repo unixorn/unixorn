@@ -23,6 +23,6 @@ I'm an SRE and live in Denver. Don't contact me about cryptocoin "opportunities"
 - ⚡ I like to cook
 - ⚡ I enjoy hiking and have summited a couple fourteeners (Quandary and Mt. Bierstadt).
 
-If you like the lists I'm maintaining or the other projects I blog about, you can [sponsor me](https://github.com/sponsors/unixorn), or buy geeky swag from my [redbubble shop](https://www.redbubble.com/people/unixorn/shop).
+If you like the lists I'm maintaining or the other projects I blog about, you can [sponsor me](https://github.com/sponsors/unixorn), or buy geeky swag from my [spreadshirt](https://www.spreadshirt.com/shop/user/unixorn/?srEdit=pa#?affiliateId=11625) and [redbubble](https://www.redbubble.com/people/unixorn/shop) shops.
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=unixorn&theme=dark)](https://git.io/streak-stats)
