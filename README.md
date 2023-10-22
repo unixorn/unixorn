@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 
 I'm an SRE and live in Denver. Don't contact me about cryptocoin "opportunities" - kleptocoin is an ecological disaster and ponzi scam and I want nothing to do with it.
 
-- 😄 Pronouns: he/him
 - 💬 My blog is at [unixorn.github.io](https://unixorn.github.io/post/).
 - 🐘 My Mastodon is [@unixorn@hachyderm.io](https://hachyderm.io/@unixorn)
 - 🔭 When I'm not maintaining my various lists and projects, I’m usually tinkering on some IOT (More specifically, [Home Assistant](https://unixorn.github.io/tags/home-assistant/) projects or playing around with some ARM boards.
