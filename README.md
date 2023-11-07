@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm an SRE and live in Denver. Don't contact me about cryptocoin "opportunities" - kleptocoin is an ecological disaster and ponzi scam and I want nothing to do with it.
+I'm an SRE and live in Denver. Don't contact me about cryptocoin "opportunities" - kleptocoins are an ecological disaster at best and also usually Ponzi scams and I want nothing to do with the entire ecosystem.
 
 - 💬 My blog is at [unixorn.github.io](https://unixorn.github.io/post/).
 - 🐘 My Mastodon is [@unixorn@hachyderm.io](https://hachyderm.io/@unixorn)
