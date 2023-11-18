@@ -24,15 +24,6 @@ If you like the lists I'm maintaining or the other projects I blog about, you ca
 </a>
 
 <a href="https://github.com/unixorn">
-  <img align="center" width="49%" src="./iso_calender.svg" />
-</a>
-
-<details>
-  <summary>Full history</summary>
-  <img align="center" width="40%" src="./calendar.full.svg" alt=""></img>
-</details>
-
-<a href="https://github.com/unixorn">
     <img align="center" width="49%" src="./issue_pr_lang.svg" />
 </a>
 
@@ -43,3 +34,11 @@ If you like the lists I'm maintaining or the other projects I blog about, you ca
     <img align="center" width="49%" src="./achievements.svg" />
 </a>
 
+<a href="https://github.com/unixorn">
+  <img align="center" width="49%" src="./iso_calender.svg" />
+</a>
+
+<details>
+  <summary>Full history</summary>
+  <img align="center" width="40%" src="./calendar.full.svg" alt=""></img>
+</details>
