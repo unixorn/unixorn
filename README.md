@@ -27,7 +27,7 @@ If you like the lists I'm maintaining or the other projects I blog about, you ca
   <img align="center" width="49%" src="./iso_calender.svg" />
 </a>
 
-<details open><summary>Full history</summary><img src="h./calendar.full.svg" alt=""></img></details>
+<details open><summary>Full history</summary><img src="./calendar.full.svg" alt=""></img></details>
 <img width="900" height="1" alt="">
 
 <a href="https://github.com/unixorn">
