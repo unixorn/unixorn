@@ -25,7 +25,7 @@
 </a>
 
 <p align="center">
-  <img src="[http://some_place.com/image.png](https://streak-stats.demolab.com?user=unixorn&theme=dark)" />
+  <img src="https://streak-stats.demolab.com?user=unixorn&theme=dark" />
 </p>
 <!--
 **unixorn/unixorn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
