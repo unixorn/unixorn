@@ -19,6 +19,7 @@ If you like the lists I'm maintaining or the other projects I blog about, you ca
 <a href="https://github.com/unixorn">
   <img align="center" width="49%" src="./repositories.svg" />
 </a>
+
 <a href="https://github.com/unixorn">
   <img align="center" width="49%" src="./acti_comm.svg" />
 </a>
@@ -30,15 +31,24 @@ If you like the lists I'm maintaining or the other projects I blog about, you ca
 <a href="https://github.com/unixorn">
   <img align="center" width="49%" src="./github-habits.svg" />
 </a>
+
 <a href="https://github.com/unixorn">
-    <img align="center" width="49%" src="./achievements.svg" />
+    <img align="center" width="49%" src="./languages.recent.svg" />
+</a>
+<a href="https://github.com/unixorn">
+    <img align="center" width="49%" src="./languages.most_used.svg" />
 </a>
 
 <a href="https://github.com/unixorn">
-  <img align="center" width="49%" src="./iso_calender.svg" />
+  <img align="center" width="49%" src="./iso_calendar.svg" />
 </a>
 
 <details>
   <summary>Full history</summary>
   <img align="center" width="40%" src="./calendar.full.svg" alt=""></img>
 </details>
+
+<br/>
+<a href="https://github.com/unixorn">
+    <img align="center" width="49%" src="./achievements.svg" />
+</a>
