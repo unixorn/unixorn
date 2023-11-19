@@ -39,17 +39,21 @@ If you like the lists I'm maintaining or the other projects I blog about, you ca
     <img align="center" width="49%" src="./languages.most_used.svg" />
 </a>
 
-<a href="https://github.com/unixorn">
-  <img align="center" width="49%" src="./iso_calendar.svg" />
-</a>
+<p align="center">
+  <a href="https://github.com/unixorn">
+    <img align="center" width="49%" src="./iso_calendar.svg" />
+  </a>
+</p>
 
-<br/>
-<details>
-  <summary>Full history</summary>
-  <img align="center" width="40%" src="./calendar.full.svg" alt=""></img>
-</details>
+<p align="center">
+  <details>
+    <summary>Full history</summary>
+    <img align="center" width="40%" src="./calendar.full.svg" alt=""></img>
+  </details>
+</p>
 
-<br/>
-<a href="https://github.com/unixorn">
-    <img align="center" width="49%" src="./achievements.svg" />
-</a>
+<p align="center">
+  <a href="https://github.com/unixorn">
+      <img align="center" width="49%" src="./achievements.svg" />
+  </a>
+</p>
