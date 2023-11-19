@@ -1,8 +1,8 @@
-I'm an SRE and live in Denver. Don't contact me about cryptocoin "opportunities" - kleptocoins are an ecological disaster at best and also usually Ponzi scams and I want nothing to do with the entire ecosystem.
+I'm an SRE and live in Denver. Don't contact me about cryptocoin "opportunities" - At best, kleptocoins are an ecological disaster, and they're also usually Ponzi scams. I want nothing to do with the entire ecosystem.
 
 - 💬 My blog is at [unixorn.github.io](https://unixorn.github.io/post/).
 - 🐘 My Mastodon is [@unixorn@hachyderm.io](https://hachyderm.io/@unixorn)
-- 🔭 When I'm not maintaining my various lists and projects, I’m usually tinkering on some IOT (More specifically, [Home Assistant](https://unixorn.github.io/tags/home-assistant/) projects or playing around with some ARM boards.
+- 🔭 When I'm not maintaining my various lists and projects, I’m usually tinkering on some IOT (More specifically, [Home Assistant](https://unixorn.github.io/tags/home-assistant/) projects or playing around with some ARM single board computers, ESP32s or ESP8266s.
 - ⚡ I enjoy cooking, especially baking.
 - ⚡ I enjoy hiking and have summited a couple fourteeners (Quandary and Mt. Bierstadt).
 
