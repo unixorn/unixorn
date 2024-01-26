@@ -21,23 +21,23 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="247.60780783367701" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="247.60780783367701" y="0" width="166.28627474060525" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="413.89408257428227" y="0" width="35.52234212652236" height="8" fill="#701516"/>
-                    <rect mask="url(#languages-bar)" x="449.4164247008046" y="0" width="10.583575299195404" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="249.03782774563237" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="249.03782774563237" y="0" width="156.46348743427987" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="405.50131517991224" y="0" width="41.988556691094395" height="8" fill="#701516"/>
+                    <rect mask="url(#languages-bar)" x="447.48987187100664" y="0" width="12.510128128993344" height="8" fill="#c6538c"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#f1e05a" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#3572A5" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                JavaScript
+                                Python
                             </div>
                             <small>
-                                <div>1.64 MB</div>
-                                <div>53.83%</div>
+                                <div>1.39 MB</div>
+                                <div>54.14%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -49,7 +49,7 @@
                             </div>
                             <small>
                                 <div>234 kB</div>
-                                <div>7.72%</div>
+                                <div>9.13%</div>
                             </small>
                         </div>
                     </section>
@@ -57,13 +57,13 @@
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#3572A5" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#f1e05a" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                Python
+                                JavaScript
                             </div>
                             <small>
-                                <div>1.10 MB</div>
-                                <div>36.15%</div>
+                                <div>875 kB</div>
+                                <div>34.01%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -75,7 +75,7 @@
                             </div>
                             <small>
                                 <div>69.9 kB</div>
-                                <div>2.3%</div>
+                                <div>2.72%</div>
                             </small>
                         </div>
                     </section>
