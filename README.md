@@ -40,10 +40,6 @@ If you like the lists I'm maintaining or the other projects I blog about, you ca
 </a>
 
 <p align="center">
-  <a href="https://github.com/unixorn">
-    <img align="center" width="49%" src="./iso_calendar.svg" />
-  </a>
-  <br/>
   <details>
     <summary>Full history</summary>
     <img align="center" width="40%" src="./calendar.full.svg" alt=""></img>
