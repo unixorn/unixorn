@@ -1,4 +1,4 @@
-I'm an SRE and live in Denver. Don't contact me about cryptocoin "opportunities" - At best, kleptocoins are an ecological disaster, and they're also usually Ponzi scams. I want nothing to do with the entire ecosystem.
+I'm an SRE and live in Denver. Don't contact me about cryptocoin "opportunities" - At best, kleptcurrencies are an Ponzi scam, and they're also usually an ecological disaster too. I want nothing to do with the entire ecosystem.
 
 - 💬 My blog is at [unixorn.github.io](https://unixorn.github.io/post/).
 - 🐘 My Mastodon is [@unixorn@hachyderm.io](https://hachyderm.io/@unixorn)
