@@ -89,7 +89,7 @@
                                 <div class="title">
                                     <span class="prefix">Master</span>
                                     developer
-                                    <span class="gh">ranked 9.30k out of 138m users</span>
+                                    <span class="gh">ranked 9.31k out of 138m users</span>
                                 </div>
                                 <div class="text">Published 487 public repositories</div>
                             </div>
@@ -246,7 +246,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="49.010999999999996 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="49.02133333333333 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" fill="none" fill-rule="evenodd">
@@ -269,9 +269,9 @@
                                 <div class="title">
                                     <span class="prefix">Master</span>
                                     maintainer
-                                    <span class="gh">ranked 2.11k out of 199m repositories</span>
+                                    <span class="gh">ranked 2.11k out of 187m repositories</span>
                                 </div>
-                                <div class="text">Maintaining a repository with 14743 stars</div>
+                                <div class="text">Maintaining a repository with 14744 stars</div>
                             </div>
                         </div>
                         <div class="achievement s largeable-width-half">
@@ -399,7 +399,7 @@
                                 <div class="title">
                                     <span class="prefix">Super</span>
                                     inspirer
-                                    <span class="gh">ranked 21k out of 199m repositories</span>
+                                    <span class="gh">ranked 21k out of 187m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 533 times</div>
                             </div>
