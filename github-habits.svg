@@ -195,17 +195,17 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">HTML</span>
-                                <div class="bar" style="width: 28.250361425291267%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
-                                <span class="value">35%</span>
+                                <div class="bar" style="width: 28.44350830325837%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <span class="value">36%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Python</span>
-                                <div class="bar" style="width: 0.7594750120475097%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 0.7646675200392723%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">1%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Makefile</span>
-                                <div class="bar" style="width: 0.11236783173172323%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 0.113136087243792%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">0%</span>
                             </div>
                         </div>
