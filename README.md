@@ -10,7 +10,7 @@ I'm an SRE and live in Denver. Don't contact me about cryptocoin "opportunities"
 If you like the lists I'm maintaining or the other projects I blog about, you can [sponsor me](https://github.com/sponsors/unixorn), or buy geeky swag from my [spreadshirt](https://www.spreadshirt.com/shop/user/unixorn/?srEdit=pa#?affiliateId=11625) and [redbubble](https://www.redbubble.com/people/unixorn/shop) shops.
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=unixorn&theme=dark" />
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=unixorn)](https://git.io/streak-stats)
 </p>
 
 <a href="https://github.com/unixorn">
