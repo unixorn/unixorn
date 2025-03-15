@@ -195,17 +195,17 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">HTML</span>
-                                <div class="bar" style="width: 0.569633069021064%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 0.65807145400925%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">1%</span>
                             </div>
                             <div class="entry">
-                                <span class="name">Python</span>
-                                <div class="bar" style="width: 0.2799809396971104%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="name">Shell</span>
+                                <div class="bar" style="width: 0.17326980417532745%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">0%</span>
                             </div>
                             <div class="entry">
-                                <span class="name">Shell</span>
-                                <div class="bar" style="width: 0.16013878157114522%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="name">Python</span>
+                                <div class="bar" style="width: 0.08370207090468532%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">0%</span>
                             </div>
                         </div>
