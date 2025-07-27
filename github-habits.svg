@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="363" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="351" class="">
     <defs>
         <style/>
     </defs>
@@ -195,27 +195,22 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">HTML</span>
-                                <div class="bar" style="width: 14.10271821663934%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">18%</span>
-                            </div>
-                            <div class="entry">
-                                <span class="name">Python</span>
-                                <div class="bar" style="width: 9.924567087635191%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">12%</span>
+                                <div class="bar" style="width: 30.322042085059692%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <span class="value">38%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">CSS</span>
-                                <div class="bar" style="width: 0.8345869920607542%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">1%</span>
+                                <div class="bar" style="width: 1.7944329247854773%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">2%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">JavaScript</span>
-                                <div class="bar" style="width: 0.07350055895989596%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 0.1580324450805392%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">0%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Shell</span>
-                                <div class="bar" style="width: 0.05121329269463719%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 0.11011292947547248%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">0%</span>
                             </div>
                         </div>
