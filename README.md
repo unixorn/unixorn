@@ -31,10 +31,11 @@ If you like the lists I'm maintaining or the other projects I blog about, you ca
 <a href="https://github.com/unixorn">
   <img align="center" width="49%" src="./github-habits.svg" />
 </a>
-
+<!-- 
 <a href="https://github.com/unixorn">
     <img align="center" width="49%" src="./languages.recent.svg" />
 </a>
+-->
 <a href="https://github.com/unixorn">
     <img align="center" width="49%" src="./languages.most_used.svg" />
 </a>
