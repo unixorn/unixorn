@@ -23,8 +23,8 @@ jobs:
           plugin_achievements: yes
           plugin_achievements_threshold: B      # Display achievements with rank B or higher
           plugin_achievements_secrets: yes      # Display unlocked secrets achievements
-          # plugin_achievements_display: compact  # Use compact display
-          plugin_achievements_display: detailed # Use detailed display
+          plugin_achievements_display: compact  # Use compact display
+          # plugin_achievements_display: detailed # Use detailed display
           plugin_achievements_limit: 0          # Display all unlocked achievements (no limit)
 
   github-metrics:
@@ -108,8 +108,8 @@ jobs:
           base: ""
           template: classic
           plugin_habits: yes
-          plugin_habits_from: 400       # How many events to use to compute habits
-          plugin_habits_days: 90        # Keep only events from last N days
+          plugin_habits_from: 100       # How many events to use to compute habits
+          plugin_habits_days: 30        # Keep only events from last N days
           plugin_habits_charts: yes     # Display charts section
           plugin_habits_trim: yes       # Trim unused hours on daily chart
 
@@ -131,8 +131,8 @@ jobs:
           config_timezone: ${{ secrets.USER_TIMEZONE }}
           plugin_followup: yes
           plugin_languages: yes
-          plugin_followup_indepth: yes
-          plugin_followup_sections: user, repositories
+          # plugin_followup_indepth: yes
+          # plugin_followup_sections: user, repositories
 
   repositories:
     runs-on: ubuntu-latest
